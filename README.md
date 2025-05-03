@@ -1,7 +1,5 @@
 # Mini-Proyecto Taller AWS Glue: Análisis de Datos de Spotify
 
-![Diagrama ETL](diagram.png)
-
 ## Descripción del Caso
 
 Simulamos tener datos de una plataforma de streaming tipo Spotify. Tenemos dos conjuntos de datos:
