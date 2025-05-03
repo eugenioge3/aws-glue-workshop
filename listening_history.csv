@@ -1,0 +1,140 @@
+user_id,song_title,artist,duration_sec
+u001,Blinding Lights,The Weeknd,200
+u001,Save Your Tears,The Weeknd,210
+u001,Levitating,Dua Lipa,203
+u001,good 4 u,Olivia Rodrigo,178
+u001,Peaches,Justin Bieber,198
+u001,MONTERO (Call Me By Your Name),Lil Nas X,137
+u002,Stay,The Kid LAROI,141
+u002,INDUSTRY BABY,Lil Nas X,212
+u002,Kiss Me More,Doja Cat,208
+u002,Bad Habits,Ed Sheeran,231
+u002,drivers license,Olivia Rodrigo,242
+u003,Todo De Ti,Rauw Alejandro,199
+u003,Yonaguni,Bad Bunny,206
+u003,Pepas,Farruko,287
+u003,Fiel,Los Legendarios,251
+u003,Pareja Del Año,Sebastian Yatra,195
+u003,Qué Más Pues?,J Balvin,217
+u004,Botella Tras Botella,Gera MX,196
+u004,AM Remix,Nio Garcia,242
+u004,Volví,Aventura,230
+u004,Dakiti,Bad Bunny,205
+u004,La Noche de Anoche,Bad Bunny,203
+u004,telepatía,Kali Uchis,160
+u005,Miénteme,TINI,164
+u005,Bandido,Myke Towers,232
+u005,911,Sech,195
+u005,EL MAKINON,KAROL G,209
+u005,2/Catorce,Rauw Alejandro,205
+u006,Leave The Door Open,Bruno Mars,242
+u006,Butter,BTS,164
+u006,Permission to Dance,BTS,187
+u006,positions,Ariana Grande,172
+u006,Heat Waves,Glass Animals,238
+u007,Astronaut In The Ocean,Masked Wolf,132
+u007,Up,Cardi B,156
+u007,deja vu,Olivia Rodrigo,215
+u007,my ex's best friend,Machine Gun Kelly,139
+u007,Therefore I Am,Billie Eilish,174
+u007,RAPSTAR,Polo G,165
+u008,Hawái,Maluma,199
+u008,Relación - Remix,Sech,247
+u008,BICHOTA,KAROL G,178
+u008,La Jeepeta - Remix,Nio Garcia,341
+u008,Tusa,KAROL G,200
+u009,Watermelon Sugar,Harry Styles,174
+u009,Adore You,Harry Styles,207
+u009,Don't Start Now,Dua Lipa,183
+u009,Say So,Doja Cat,237
+u009,Circles,Post Malone,215
+u009,Someone You Loved,Lewis Capaldi,182
+u010,The Box,Roddy Ricch,196
+u010,ROCKSTAR,DaBaby,181
+u010,Life Is Good,Future,237
+u010,WHATS POPPIN,Jack Harlow,139
+u010,Go Crazy,Chris Brown,176
+u011,Dance Monkey,Tones And I,209
+u011,death bed (coffee for your head),Powfu,173
+u011,Roses - Imanbek Remix,SAINt JHN,176
+u011,Savage Love (Laxed - Siren Beat),Jawsh 685,171
+u011,Mood,24kGoldn,140
+u011,WAP,Cardi B,187
+u012,Blinding Lights,The Weeknd,200
+u012,Circles,Post Malone,215
+u012,Don't Start Now,Dua Lipa,183
+u012,Watermelon Sugar,Harry Styles,174
+u012,Adore You,Harry Styles,207
+u012,Before You Go,Lewis Capaldi,215
+u013,Memories,Maroon 5,189
+u013,everything i wanted,Billie Eilish,245
+u013,Intentions,Justin Bieber,212
+u013,Toosie Slide,Drake,247
+u013,Stuck with U,Ariana Grande,228
+u014,RITMO (Bad Boys For Life),Black Eyed Peas,214
+u014,Falling,Trevor Daniel,159
+u014,Supalonely,BENEE,223
+u014,Blueberry Faygo,Lil Mosey,162
+u014,Break My Heart,Dua Lipa,221
+u014,ILY (i love you baby),Surf Mesa,176
+u015,Physical,Dua Lipa,193
+u015,Rain On Me,Lady Gaga,182
+u015,Kings & Queens,Ava Max,162
+u015,Head & Heart,Joel Corry,166
+u015,Breaking Me,Topic,166
+u016,Hawái,Maluma,199
+u016,Tusa,KAROL G,200
+u016,La Jeepeta - Remix,Nio Garcia,341
+u016,Relación - Remix,Sech,247
+u016,BICHOTA,KAROL G,178
+u016,DÁKITI,Bad Bunny,205
+u017,Blinding Lights,The Weeknd,200
+u017,Watermelon Sugar,Harry Styles,174
+u017,Mood,24kGoldn,140
+u017,ROCKSTAR,DaBaby,181
+u017,Savage Love (Laxed - Siren Beat),Jawsh 685,171
+u018,positions,Ariana Grande,172
+u018,drivers license,Olivia Rodrigo,242
+u018,Save Your Tears,The Weeknd,210
+u018,Peaches,Justin Bieber,198
+u018,Leave The Door Open,Bruno Mars,242
+u018,MONTERO (Call Me By Your Name),Lil Nas X,137
+u019,good 4 u,Olivia Rodrigo,178
+u019,Kiss Me More,Doja Cat,208
+u019,Stay,The Kid LAROI,141
+u019,INDUSTRY BABY,Lil Nas X,212
+u019,Bad Habits,Ed Sheeran,231
+u019,Heat Waves,Glass Animals,238
+u020,Todo De Ti,Rauw Alejandro,199
+u020,Pepas,Farruko,287
+u020,Yonaguni,Bad Bunny,206
+u020,Fiel,Los Legendarios,251
+u020,Pareja Del Año,Sebastian Yatra,195
+u021,Qué Más Pues?,J Balvin,217
+u021,Botella Tras Botella,Gera MX,196
+u021,AM Remix,Nio Garcia,242
+u021,Volví,Aventura,230
+u021,La Noche de Anoche,Bad Bunny,203
+u021,telepatía,Kali Uchis,160
+u022,Miénteme,TINI,164
+u022,Bandido,Myke Towers,232
+u022,911,Sech,195
+u022,EL MAKINON,KAROL G,209
+u022,2/Catorce,Rauw Alejandro,205
+u022,Butter,BTS,164
+u023,Permission to Dance,BTS,187
+u023,Levitating,Dua Lipa,203
+u023,Astronaut In The Ocean,Masked Wolf,132
+u023,Up,Cardi B,156
+u023,deja vu,Olivia Rodrigo,215
+u024,my ex's best friend,Machine Gun Kelly,139
+u024,Therefore I Am,Billie Eilish,174
+u024,RAPSTAR,Polo G,165
+u024,Life Is Good,Future,237
+u024,The Box,Roddy Ricch,196
+u025,WHATS POPPIN,Jack Harlow,139
+u025,Go Crazy,Chris Brown,176
+u025,Roses - Imanbek Remix,SAINt JHN,176
+u025,Dance Monkey,Tones And I,209
+u025,death bed (coffee for your head),Powfu,173
+u025,Savage Love (Laxed - Siren Beat),Jawsh 685,171
