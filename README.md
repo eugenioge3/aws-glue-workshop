@@ -3,6 +3,8 @@
 
 ## Instrucciones Detalladas Paso a Paso
 
+![Diagrama ETL](diagram.png)
+
 ### Parte 1: Preparar S3 (Almacenamiento)
 
 1.  **Ir a S3:** Busca `S3` en la consola de AWS y entra al servicio.
