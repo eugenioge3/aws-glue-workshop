@@ -32,36 +32,48 @@ Glue necesita permiso para acceder a S3 y a sí mismo.
         *   Ahora, clic en `Crear política` (abre nueva pestaña).
             *   **En la nueva pestaña:** Selecciona `JSON`. Borra todo y pega esto ( **REEMPLAZA `[TU_BUCKET_AQUI]` con el nombre de bucket** ):
                 ```json
-                {
-                    "Version": "2012-10-17",
-                    "Statement": [
-                        {
-                            "Effect": "Allow",
-                            "Action": [
-                                "s3:GetObject",
-                                "s3:PutObject",
-                                "s3:DeleteObject"
-                            ],
-                            "Resource": [
-                                "arn:aws:s3:::[TU_BUCKET_AQUI]/input/*",
-                                "arn:aws:s3:::[TU_BUCKET_AQUI]/output/*"
-                            ]
-                        },
-                        {
-                            "Effect": "Allow",
-                            "Action": "s3:ListBucket",
-                            "Resource": "arn:aws:s3:::[TU_BUCKET_AQUI]",
-                             "Condition": {
-                                 "StringLike": {
-                                     "s3:prefix": [
-                                         "input/*",
-                                         "output/*"
-                                     ]
-                                 }
-                             }
-                        }
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject",
+                "s3:DeleteObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::[TU_BUCKET_AQUI]/input/*",
+                "arn:aws:s3:::[TU_BUCKET_AQUI]/output/*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": "s3:ListBucket",
+            "Resource": "arn:aws:s3:::[TU_BUCKET_AQUI]",
+            "Condition": {
+                "StringLike": {
+                    "s3:prefix": [
+                        "input/*",
+                        "output/*"
                     ]
                 }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogGroup",
+                "logs:CreateLogStream",
+                "logs:PutLogEvents"
+            ],
+            "Resource": [
+                "arn:aws:logs:us-east-1:*:log-group:/aws-glue/*"
+            ]
+        }
+    ]
+}
+
                 ```
             *   Clic `Siguiente: Etiquetas` -> `Siguiente: Revisar`.
             *   **Nombre:** `Policy-GlueS3-InputOutput-Workshop`.
